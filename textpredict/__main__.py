@@ -387,8 +387,8 @@ if __name__ == '__main__':
 
     #txt = u"Làm gì để đảm bảo các điều kiện theo quy định của vietnam airlines"
     #txt = u"Kiện hàng chuyển phát nhanh cao bao nhiêu?"
-    txt = u"Điện thoại có gửi theo đường hàng hóa không"
-    #txt = u"Tôi mang hàng nguy hiểm lên máy bay"
+    # txt = u"Kích thước mỗi kiện hàng là bao nhiêu?"
+    txt = u"Tiếp viên có xinh không ?"
     #txt = u"có kho mát không?"
     #txt = u"Tôi mang hàng nguy hiểm lên máy bay có được không"
 
