@@ -388,8 +388,8 @@ if __name__ == '__main__':
     #txt = u"Làm gì để đảm bảo các điều kiện theo quy định của vietnam airlines"
     #txt = u"Kiện hàng chuyển phát nhanh cao bao nhiêu?"
     # txt = u"Kích thước mỗi kiện hàng là bao nhiêu?"
-    txt = u"Tiếp viên có xinh không ?"
-    #txt = u"có kho mát không?"
+    # txt = u"Tiếp viên có xinh không ?"
+    txt = u"có kho mát không?"
     #txt = u"Tôi mang hàng nguy hiểm lên máy bay có được không"
 
     predict = TextClassificationPredict(txt, file.get_dbtrain(), file.get_dbtrain_extend(), file.get_dbanswers())
